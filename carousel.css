@@ -1,0 +1,55 @@
+.skyblue {
+    background-color: #22c8ff;
+}
+
+.deepskyblue {
+
+/*    background: url(horror-background_censored.jpg) no-repeat;
+    -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+ /*   background-size: cover; /* version standardisÃ©e */
+}
+.darkerskyblue {
+    background-color: #00a6dd;
+}
+.carousel-indicators {
+    bottom: 0;
+}
+.carousel-control.right,
+.carousel-control.left {
+    background-image: none;
+}
+.carousel .item {
+    min-height: 550px;
+    height: 100%;
+    width:100%;
+}
+.carousel-caption h3,
+.carousel .icon-container,
+.carousel-caption button {
+}
+.carousel-caption h3 {
+    padding: .5em;
+}
+.carousel .icon-container {
+    display: inline-block;
+    font-size: 25px;
+    line-height: 25px;
+    padding: 1em;
+    text-align: center;
+    border-radius: 50%;
+}
+.carousel-caption button {
+    margin-top: 1em;
+}
+
+.carousel-caption{
+    top:150px;
+}
+
+.btn-reserver{
+    background: url(btn_reserver.png) no-repeat;
+}
+
+.carousel-inner{
+    background-color: black;
+}
